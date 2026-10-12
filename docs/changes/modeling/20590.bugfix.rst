@@ -1,0 +1,3 @@
+``separability_matrix`` and ``is_separable`` no longer report the pseudocylindrical
+(SFL, PAR, MOL, AIT), Bonne (BON) and HEALPix (HPX) projections as separable, and
+``Model.separable`` is now ``False`` for them.
